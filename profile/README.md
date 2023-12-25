@@ -22,6 +22,7 @@ SeeU Club 是 SeeU 持有者、Buidler 的自发组织，我们希望利用 SeeU
 
 ### 👩‍💻 Useful resources
 
+SeeU 社区 Tg 群👉 https://t.me/seeubtc  
 社区小伙伴做的 SeeU 网站👉 https://seeu-brc20.xyz  
 Unisat 交易👉 https://unisat.io/market/brc20?tick=SeeU  
 OKX 交易👉 https://www.okx.com/cn/web3/marketplace/ordinals/brc20/SeeU  
