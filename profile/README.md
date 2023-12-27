@@ -29,7 +29,7 @@ OKX 交易👉 https://www.okx.com/cn/web3/marketplace/ordinals/brc20/SeeU
 
 ### 开发计划
 - [ ] 游戏，使用 SeeU 作为道具等等
-- [ ] 交易动态信息， API 参考 https://www.okx.com/web3/build/docs/build-dapp/marketplace-retrieve-ordinal-activities
-- [ ] 基于地址查询持仓情况， API 参考 https://www.okx.com/web3/build/docs/build-dapp/bitcoin-ecosystem-api-get-address-balance-list
-- [ ] 批量铭刻工具，Deploy、Mint、Transfer，参考 https://idclub.io/brc20
+- [ ] 交易动态信息
+- [ ] 基于地址查询持仓情况
+- [ ] 批量铭刻工具，Deploy、Mint、Transfer
 - [ ] SeeU Dashboard  
