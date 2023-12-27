@@ -23,6 +23,12 @@ SeeU Club 是 SeeU 持有者、Buidler 的自发组织，我们希望利用 SeeU
 ### 👩‍💻 Useful resources
 
 SeeU 社区 Tg 群👉 https://t.me/seeubtc  
-社区小伙伴做的 SeeU 网站👉 https://seeu-brc20.xyz  
+社区小伙伴做的 SeeU 网站👉 https://seeu.meme  
 Unisat 交易👉 https://unisat.io/market/brc20?tick=SeeU  
 OKX 交易👉 https://www.okx.com/cn/web3/marketplace/ordinals/brc20/SeeU  
+
+### 开发计划
+- [ ] 游戏，使用 SeeU 作为道具等等
+- [ ] 交易动态信息， API 参考 https://www.okx.com/web3/build/docs/build-dapp/marketplace-retrieve-ordinal-activities
+- [ ] 基于地址查询持仓情况， API 参考 https://www.okx.com/web3/build/docs/build-dapp/bitcoin-ecosystem-api-get-address-balance-list
+- [ ] 批量铭刻工具，Deploy、Mint、Transfer，参考 https://idclub.io/brc20
