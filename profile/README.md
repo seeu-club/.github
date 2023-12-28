@@ -1,5 +1,7 @@
 ## SeeU！Hi, there! 👋
 
+https://seeuclub.xyz
+
 <!--
 
 **Here are some ideas to get you started:**
