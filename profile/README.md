@@ -35,4 +35,4 @@ Dune 面板👉 https://dune.com/0xfrozen/seeu-club
 - [ ] 交易动态信息
 - [ ] 基于地址查询持仓情况
 - [ ] 批量铭刻工具，Deploy、Mint、Transfer
-- [ ] SeeU Dashboard  
+- [x] SeeU Dashboard  
