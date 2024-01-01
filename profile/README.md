@@ -28,6 +28,7 @@ SeeU 社区 Tg 群👉 https://t.me/seeubtc
 社区小伙伴做的 SeeU 网站👉 https://seeu.meme  
 Unisat 交易👉 https://unisat.io/market/brc20?tick=SeeU  
 OKX 交易👉 https://www.okx.com/cn/web3/marketplace/ordinals/brc20/SeeU  
+Dune 面板👉 https://dune.com/0xfrozen/seeu-club  
 
 ### 开发计划
 - [ ] 游戏，使用 SeeU 作为道具等等
