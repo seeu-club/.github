@@ -26,10 +26,22 @@ SeeU Club 是 SeeU 持有者、Buidler 的自发组织，我们希望利用 SeeU
 
 SeeU 社区 Tg 群👉 https://t.me/seeubtc  
 社区小伙伴做的 SeeU 网站👉 https://seeu.meme  
+SeeU Club 网站👉 https://seeuclub.xyz  
 Unisat 交易👉 https://unisat.io/market/brc20?tick=SeeU  
 OKX 交易👉 https://www.okx.com/cn/web3/marketplace/ordinals/brc20/SeeU  
 Dune 面板👉 https://dune.com/0xfrozen/seeu-club  
 SeeU 的部署 https://unisat.io/inscription/6e10a5a53028bc945539a5f9a9f18f08141b05ccb6f721bd63386f056b9a5a8fi0
+
+---
+
+SeeU Community Tg Group👉 https://t.me/seeubtc  
+SeeU Website👉 https://seeu.meme  
+SeeU Club Website👉 https://seeuclub.xyz  
+Unisat Trade👉 https://unisat.io/market/brc20?tick=SeeU  
+OKX Trade👉 https://www.okx.com/web3/marketplace/ordinals/brc20/SeeU  
+Dune Dashboard👉 https://dune.com/0xfrozen/seeu-club  
+SeeU Info https://unisat.io/inscription/6e10a5a53028bc945539a5f9a9f18f08141b05ccb6f721bd63386f056b9a5a8fi0
+
 
 
 ### 开发计划
