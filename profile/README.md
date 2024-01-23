@@ -47,6 +47,6 @@ SeeU Info https://unisat.io/inscription/6e10a5a53028bc945539a5f9a9f18f08141b05cc
 ### 开发计划
 - [ ] 游戏，使用 SeeU 作为道具等等
 - [ ] 交易动态信息
-- [ ] 基于地址查询持仓情况
-- [ ] 批量铭刻工具，Deploy、Mint、Transfer
+- [x] 基于地址查询持仓情况
+- [x] 批量铭刻工具，Deploy、Mint、Transfer
 - [x] SeeU Dashboard  
