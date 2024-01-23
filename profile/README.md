@@ -29,6 +29,7 @@ SeeU 社区 Tg 群👉 https://t.me/seeubtc
 SeeU Club 网站👉 https://seeuclub.xyz  
 Unisat 交易👉 https://unisat.io/market/brc20?tick=SeeU  
 OKX 交易👉 https://www.okx.com/cn/web3/marketplace/ordinals/brc20/SeeU  
+Poloniex 交易👉 https://poloniex.com/trade/SEEU_USDT  
 Dune 面板👉 https://dune.com/0xfrozen/seeu-club  
 SeeU 的部署 https://unisat.io/inscription/6e10a5a53028bc945539a5f9a9f18f08141b05ccb6f721bd63386f056b9a5a8fi0
 
