@@ -40,7 +40,7 @@ SeeU Website👉 https://seeu.meme
 SeeU Club Website👉 https://seeuclub.xyz  
 Unisat Trade👉 https://unisat.io/market/brc20?tick=SeeU  
 OKX Trade👉 https://www.okx.com/web3/marketplace/ordinals/brc20/SeeU  
-Poloniex Trade👉 https://poloniex.com/trade/SEEU_USDT
+Poloniex Trade👉 https://poloniex.com/trade/SEEU_USDT  
 Dune Dashboard👉 https://dune.com/0xfrozen/seeu-club  
 SeeU Info https://unisat.io/inscription/6e10a5a53028bc945539a5f9a9f18f08141b05ccb6f721bd63386f056b9a5a8fi0
 
